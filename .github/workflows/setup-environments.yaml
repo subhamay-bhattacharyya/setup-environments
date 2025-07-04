@@ -7,7 +7,7 @@ on:
       ci-environment:
         description: "AWS Account Name for CI Environment."
         required: true
-        default: "devl"
+        default: "ci"
       devl-environment:
         description: "AWS Account Name for Development Environment."
         required: true
